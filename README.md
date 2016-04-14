@@ -1,0 +1,2 @@
+# BSQ
+Solving The BSQ
