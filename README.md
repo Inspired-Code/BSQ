@@ -2,9 +2,9 @@
 
 Solving The BSQ
 
-Team Name: Hack-Hard
+Team Name: bsq-f
 
 Repository link: https://github.com/Inspired-Code/BSQ.git
 
-Team Members: Gary, Jessica, Mandisi Makwakwa, Mphiwe, Ntaoleng, Ntsika
+Team Members: Gerald Mojela, Jessica Nomason, Mandisi Makwakwa, Mphiwe Ntuli ,Ntaoleng Moloi , Ntsika Matshay
  
